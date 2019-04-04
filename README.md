@@ -1,2 +1,6 @@
-# trabalho_Git-
-Trabalho de Git
+
+			TRABALHO DO GIT 
+	git init - ele inicia o git
+			
+	
+
